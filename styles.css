@@ -1,0 +1,28 @@
+#web_title{
+    font-size: 70px;
+    background-image: linear-gradient(rgb(100, 149, 237),red);
+    font-family: Bebas Neue;
+    text-align:center;
+    letter-spacing: 3px;
+    color:white;
+    margin-top:30px;
+}
+
+body{
+    background-color:#202024;
+}
+
+#directions{
+    color: white;
+}
+
+form{
+    display:flex;
+    flex-direction:column;
+    margin-left:40%;
+    margin-right:40%; 
+}
+
+#directions{
+    text-align:center;
+}
